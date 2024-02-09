@@ -47,7 +47,7 @@ database & ETL design. Performed on-call support & technical
 analysis for L3 level issues, & managed the Change Control process
 directly with the client.
 
-2010-2017 (Analyst)
+2008-2010 (Analyst)
 :   **Data Engineering**; Cognizant Technology Solutions (Bridgewater, NJ)
 
 • Monitored the Informatica jobs & provided the failover recovery
